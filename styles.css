@@ -1,0 +1,14 @@
+
+.pillImg:hover {
+    transform: scale(1.1);
+    transition: transform .3s ease;
+}
+
+.pillImg:not(:hover) {
+    transform: scale(1.0);
+    transition: transform .3s ease;
+}
+
+.pillImg {
+    filter: drop-shadow(0 10px 2rem black);
+}
