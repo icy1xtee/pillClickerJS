@@ -1,1 +1,4 @@
 # pillClickerJS
+---
+permalink: /index.html
+---
